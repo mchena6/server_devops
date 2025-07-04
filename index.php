@@ -1,4 +1,4 @@
-<?php
+a<?php
 // index.php
 
 // Configuración básica
@@ -39,7 +39,7 @@ $date = date("d/m/Y");
     <div class="container">
         <h1><?= $title ?></h1>
         <p>¡Bienvenido a tu aplicación PHP!</p>
-        <p><small>Hoy es <?= $date ?></small></p>
+        <p><small>El dia de hoy es <?= $date ?></small></p>
     </div>
 </body>
 </html>
